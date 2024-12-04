@@ -1,5 +1,5 @@
 # Time-Management-Website
-College Project
+College Sysytem and Web Development Project
 <br>
 DONE BY:
 <br>
